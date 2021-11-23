@@ -86,14 +86,14 @@ Links:
 
 ### Project #2 - RPG Battle Script
 
-- [ ] RPG setup 06:55
-- [ ] Creating our character 07:03
-- [ ] Additional utility classes 06:14
-- [ ] Enemy instantiation 17:19
-- [ ] Using magic 14:02
-- [ ] Turning our magic into a class 15:42
-- [ ] Healing our player 04:06
-- [ ] Adding items 16:05
+- [x] RPG setup 06:55
+- [x] Creating our character 07:03
+- [x] Additional utility classes 06:14
+- [x] Enemy instantiation 17:19
+- [x] Using magic 14:02
+- [x] Turning our magic into a class 15:42
+- [x] Healing our player 04:06
+- [x] Adding items 16:05
 - [ ] Implementing different item types 12:35
 - [ ] Better HP view 09:05
 - [ ] Adding members to our party 13:00
