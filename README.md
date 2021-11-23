@@ -71,18 +71,18 @@ Links:
 - [x] If, elif, else statements 03:30
 - [x] For/while loops 04:06
 - [x] Importing libraries into a script 07:07
-- [ ] Project #1 - Building a calculator 19:25
+- [x] Project #1 - Building a calculator 19:25
 
 ### Advanced Python Concepts
 
-- [ ] PEP guidelines 11:12
-- [ ] Breaking out of while loops 09:52
-- [ ] Continuing while loops 02:59
-- [ ] Classes & objects 04:39
-- [ ] Instance variables 03:13
-- [ ] Class & instance variables 01:32
-- [ ] How to add comments to your code 02:29
-- [ ] Importing modules from relative paths 03:42
+- [x] PEP guidelines 11:12
+- [x] Breaking out of while loops 09:52
+- [x] Continuing while loops 02:59
+- [x] Classes & objects 04:39
+- [x] Instance variables 03:13
+- [x] Class & instance variables 01:32
+- [x] How to add comments to your code 02:29
+- [x] Importing modules from relative paths 03:42
 
 ### Project #2 - RPG Battle Script
 
